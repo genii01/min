@@ -11,6 +11,15 @@ simple sample of transformer BERT & ALBERT
 
 ## Usage
 
+### inputdata example
+
+positive	나름 괜찬항요 막 엄청 좋은건 아님 그냥 그럭저럭임... 아직 까지 인생 디퓨져는 못찾은느낌
+negative	재질은플라스틱부분이많고요...금방깨질거같아요..당장 물은나오게해야하기에..그냥설치했어요..지금도 조금은후회중.....
+
+### output 
+
+positive, negative, negative, positive, ....
+
 ### Training
 
 ```bash

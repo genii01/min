@@ -1,8 +1,5 @@
 .vscode
 *.pyc
 /data
-
-.DS_Store
-._.DS_Store
 /models
 .checkpoints
